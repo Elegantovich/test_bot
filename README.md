@@ -27,3 +27,5 @@ python3 test_bot.py
 - Ссылка на схему стейт машины
 ```
 https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png
+```
+![alt text](https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png)
