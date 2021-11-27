@@ -24,7 +24,6 @@ python3 bot.py
 ```
 python3 test_bot.py
 ```
-
-![Image alt](https://github.com/Elegantovich/test_bot/raw/Elegantovich/state_machine.png)
-(https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png)
-state machine.png
+- Ссылка на схему стейт машины
+```
+https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png
