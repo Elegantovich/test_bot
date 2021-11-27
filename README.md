@@ -28,4 +28,4 @@ python3 test_bot.py
 ```
 https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png
 ```
-![alt text](https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png)
+<p align="center"><img src="https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png"></p>
