@@ -23,3 +23,7 @@ python3 bot.py
 - Для тестирование диалога с ботом выполните команду:
 ```
 python3 test_bot.py
+```
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Image alt](https://github.com/Elegantovich/test_bot/raw/master/image/image.png)
