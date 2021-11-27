@@ -26,5 +26,6 @@ python3 test_bot.py
 ```
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-![Image alt](https://github.com/Elegantovich/test_bot/raw/master/image/state%20machine.png)
+![Image alt](https://github.com/Elegantovich/test_bot/raw/master/image/state-machine.png)
 (https://github.com/Elegantovich/test_bot/blob/Elegantovich/state%20machine.png)
+state machine.png
