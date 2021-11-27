@@ -5,7 +5,9 @@
 необходимо ввести свой api_id, api_hash. Получить все это можной по ссылке
 https://my.telegram.org/
 ### Технологии
-- Python 3.9.9, python-telegram-bot 13.8.1, Pyrogram 1.2.9
+- Python 3.9.9
+- python-telegram-bot 13.8.1
+- Pyrogram 1.2.9
 ### Запуск проекта dev-режиме
 - Установите и запустите виртуальное окружение
 ```
